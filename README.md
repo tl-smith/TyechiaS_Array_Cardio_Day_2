@@ -1,4 +1,4 @@
-# Array Cardio Day 2
+# Array Cardio Day 2 — JavaScript30
   ## Objective
 By the end of this project, you should be able to:
 
